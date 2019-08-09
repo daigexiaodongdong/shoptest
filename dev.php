@@ -1,6 +1,2 @@
 <?php
-
-
 echo "user";
-
-
